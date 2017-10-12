@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TJLack/NYT-React-Search.git"
+    "url": "git+https://github.com/TJLack/nytreact.git"
   },
   "keywords": [
     "react",
@@ -21,9 +21,9 @@
   "author": "Tyler Lackey",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TJLack/NYT-React-Search/issues"
+    "url": "https://github.com/TJLack/nytreact/issues"
   },
-  "homepage": "https://github.com/TJLack/NYT-React-Search#readme",
+  "homepage": "https://github.com/TJLack/nytreact#readme",
   "dependencies": {
     "axios": "^0.16.2",
     "body-parser": "^1.17.2",
